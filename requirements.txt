@@ -9,5 +9,5 @@ pycparser==2.18
 Pypubsub==4.0.0
 requests==2.19.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.24.2
 wxPython==4.0.3
